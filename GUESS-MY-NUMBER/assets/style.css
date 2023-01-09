@@ -1,0 +1,23 @@
+body{
+  background: rgb(82, 82, 82);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#formit
+{
+  width:600px;
+  height: 400px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 160px;
+  border-radius: 20px;
+  background-color: rgba(255, 255, 255, 0.342);  
+  backdrop-filter: blur(10px);
+}
+
+#textin
+{
+  padding-left: 170px;
+  padding-top: 60px;
+  color: aliceblue;
+}
