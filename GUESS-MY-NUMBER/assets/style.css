@@ -1,15 +1,15 @@
 body{
   background: rgb(82, 82, 82);
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 #formit
 {
-  width:600px;
-  height: 400px;
+  width:400px;
+  height: 300px;
   margin-right: auto;
   margin-left: auto;
-  margin-top: 160px;
+  margin-top: 190px;
   border-radius: 20px;
   background-color: rgba(255, 255, 255, 0.342);  
   backdrop-filter: blur(10px);
@@ -17,13 +17,16 @@ body{
 
 #textin
 {
-  padding-left: 170px;
+  padding-left: 71px;
   padding-top: 60px;
   color: aliceblue;
 }
 
 #number
 {
-  margin-left:210px;
+  margin-left:115px;
   margin-top:10px;
+  background: rgb(124, 255, 244);
+  border-radius: 5px;
+  padding : 5px;
 }
