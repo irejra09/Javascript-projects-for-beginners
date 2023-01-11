@@ -30,4 +30,5 @@ body{
   background: rgb(124, 255, 244);
   border-radius: 5px;
   padding : 5px;
+  border: 1px solid grey;
 }
