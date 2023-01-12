@@ -32,3 +32,12 @@ body{
   padding : 5px;
   border: 1px solid grey;
 }
+#submit
+{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  border-radius:4px solid rgb(255, 233, 233);
+
+}
